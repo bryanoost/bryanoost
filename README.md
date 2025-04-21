@@ -5,12 +5,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Vulnerability Management Program Implementation]()**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
 <hr/>
 
@@ -21,9 +21,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
+
 [linkedin]: https://linkedin.com/in/___________
 
 <!--
